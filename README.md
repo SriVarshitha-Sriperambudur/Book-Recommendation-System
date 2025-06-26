@@ -1,4 +1,5 @@
-Book Recommendation System using Machine Learning
+📚Book Recommendation System using Machine Learning
+
 
 This project is a content-based book recommendation system built using Machine Learning and Natural Language Processing (NLP) techniques. It suggests books similar to a given title by analyzing the textual content (descriptions) of the books.
 
